@@ -1,0 +1,101 @@
+HCO3	SO4	Cl	Ca	Mg	Na	Origine	Sigle	Pays	Nature
+160	19	7	50	6	5	Saint-Martin d’Abbat(F-45)	Abb	1	plat
+341	27	3	84	23	2	Aix-les-Bains (F-73)	Aix	1	plat
+312	372		176	46	28	St.Amand (F-59)	Ama	1	plat
+263	23	9	91	5	3	Beckerish (F-68)	Bec	1	plat
+287	3	5	44	24	23	Cayranne (F-84)	Cay	1	plat
+1200	8	20	180	50	250	Cesar (F-42)	Ces	1	plat
+298	9	23	96	6	11	Chambon (F-45)	Cha	1	plat
+151	3	5	45	3	5	Les Chesnaux (F-45)	Che	1	plat
+13	1	1	3	1	2	Chantade (F-63)	Cht	1	plat
+386	1058	6	451	66	8	Contrexeville (F-88)	Con	1	plat
+200	15	8	70	2	4	Cristal-Roc (F-72)	Cri	1	plat
+250	5	20	71	6	11	St.Cyr (F-45)	Cyr	1	plat
+173	51	1	63	10	1	Ecrins (F-05)	Ecr	1	plat
+357	10	2	78	24	5	Evian (F-74)	Evi	1	plat
+360	47	28	89	31	17	Fiée des Lois (F-79)	Fie	1	plat
+403	1479		555	110		Hepar (F-42)	Hep	1	plat
+256	6	23	86	3	18	St.Hyppolite (F-37)	Hip	1	plat
+186	10	16	64	4	9	Laurier (F-77)	Lau	1	plat
+78	8	2	27	1	1	Luchon (F-31))	Luc	1	plat
+219	39	28	68	11	21	Saint-Martin (F-24)	Mar	1	plat
+5	9	1	3	1	2	Montcalm (F-07)	Mon	1	plat
+183	16	44	48	11	31	Ogeu (F-64)	Oge	1	plat
+398	218	15	157	35	8	Ondine (F-95)	Ond	1	plat
+731	12	8	200	20	6	Orezza (Corse)	Ore	1	plat
+348	51	31	140	4	14	Perrier (F-30)	Per	1	plat
+332	14	8	103	16	5	Thonon (F-74)	Tho	1	plat
+329	1342	9	528	78	9	Saint-Antonin (F82)	Ton	1	plat
+280	620	58	230	66	40	Vauban (F59)	Vau	1	plat
+402	306	15	202	36	3	Vittel (F-88)	Vit	1	plat
+64	7	8	10	6	8	Volvic (F-63)	Vol	1	plat
+142	520		222	18	4	Wattwiller (F-68)	Wat	1	plat
+68	5	15	11	5	15	Zilia (Corse)	Zil	1	plat
+43	8	1	13	3	2	Alisea (I)	Ali	2	plat
+429		18	157	8	14	Amerino (I)	Ame	2	plat
+29	8		12		1	Sant’Anna (I)	Ann	2	plat
+133	2	1	34	5	4	San Antonio	Ant	2	plat
+293	5	3	46	30	7	San Benedetto (Venetie)	Sb1	2	plat
+176	1420	1	533	66	1	Courmayeur (I)	Cou	2	plat
+16	5	26	4	2	16	Napoleone-Isola Elba (I)	Nap	2	plat
+361	28	26	134	5	14	Fabia (Terni)	Fab	2	plat
+311	14	18	73	18	13	Ferita (I)	Fer	2	plat
+401	42	24	137	7	20	San Gemini (I)	Gem	2	plat
+113		86	29	16	45	San Giorgio  (Sardaigne)	Gio	2	plat
+281	26	20	93	4	19	Goccia Blu (I)	Goc	2	plat
+59	14		21	2	2	Levissima (I)	Lei	2	plat
+154	21	1	35	15	1	Lora-Recoaro (I)	Lor	2	plat
+108	21	9	34	7	63	Acqua Pama (I)	Pam	2	plat
+100	21	7	30	7	7	Panna (Toscane)	Pan	2	plat
+106	21	9	33	7	6	Panna (Toscane)	Pan	2	plat
+161	24	1	37	16	1	Recoaro (Dolomites)	Rec	2	plat
+78	8	8	57	3	5	Roccheta (I)	Roc	2	plat
+293	17	2	45	30	7	San Benedetto (I)	Sb2	2	plat
+378	67	4	107	27	6	San Carlo (Bergame)	Sca	2	plat
+90	7	10	15	5	13	Tione (I)	Tio	2	plat
+150	18	3	36	13	2	Vera (I)	Vea	2	plat
+168	24	8	55	5	9	Ribes (E)	Rib	3	plat
+196	18	6	58	6	13	Veri (E)	Ver	3	plat
+59	7	6	16	2	9	Viladreau (E)	Vil	3	plat
+110	65	5	4	1	3	Spa (B)	Spa	4	plat
+329	110		80	40	18	Dusittot (H)	Dus	5	plat
+487	144		144	34	32	Théodora Kereki (H)	Ker	5	plat
+36	26	7	3		15	Caramulo (P)	Car	6	plat
+354	16	22	112	3		Ciego Montero (Cuba)	Cub	7	plat
+207	10	28	68	6	10	Sostem (TU)	Sos	8	plat
+244	24	64	80	10	37	Marwa (TU)	Tun	8	plat
+367	7	35	12	73	21	Loutrakis (Chypre)	Lou	9	plat
+304	13	21	47	32	18	Saint Nicholas (Chypre)	Nic	9	plat
+135	24	19	27	15	18	Vitalia (Chypre)	Via	9	plat
+78	8	14	14	7	12	Aquador (Danemark)	Aqu	10	plat
+	6	7	36	9	7	Salus (Uruguay)	Sal	11	plat
+133	7		32	8	45	Highland Spring (Ecosse)	Hig	12	plat
+103	11	6	27	7	7	Sainsbury (Ecosse)	Sai	12	plat
+		65	35		15	Fontana (Malte)	Ma1	13	plat
+	0	7	27	5		Aysu (Turquie)	Ays	14	plat
+	14	9	26	6		Oruçoglu (Turquie)	Oru	14	plat
+367	7	35	12	73	21	Loutraki (Grèce)	Lot	15	plat
+5	14	7	1	3	2	Dasani (Québec)	Das	16	plat
+245	27	2	45	25	7	Naya Go (Québec)	Nay	16	plat
+416	6	4	86	27	12	Drzavnog (Hr)	Drz	17	plat
+354	7	2	63	34	2	Jana (Hr)	Jan	17	plat
+1700			272	102	180	Badoit (F-42)	Bad	1	gaz
+1567	45	27	49	26	482	Manon (F-07)	Man	1	gaz
+1850	180	180	16	4	62	Riom (F-63)	Rio	1	gaz
+812	59	230	71	40	302	Ste Marguerite (F-63)	SMa	1	gaz
+1403	39	27	45	21	453	Vals (F-07)	Val	1	gaz
+4263	182	329	78	9	1744	St.Yorre (F-42)	Yor	1	gaz
+30	3	1	10	1	1	San Bernardo (I)	Ber	2	gaz
+1159	8	18	304	17	47	Caserta (I)	Cas	2	gaz
+339	11	16	107	7	9	Cintoia (I)	Cin	2	gaz
+74		73	15	14	39	Levia (Sardaigne)	Lev	2	gaz
+2206	281	298	180	56	780	San Martino (I)	Mat	2	gaz
+139	27	7	33	10	14	Monteverde (I)	Mtv	2	gaz
+1360				60	290	Santa Lucia (Sardaigne)	San	2	gaz
+2147	48	610	50	8	1136	Vichy-Catalan (E)	Cat	3	gaz
+2150	210	51	169	138	405	Fonyod (H)	Fon	5	gaz
+540	333	133	186	48	129	Harmatviz (H)	Har	5	gaz
+1150			246	56	36	Théodora Kékkuti (H)	Kek	5	gaz
+2352	112	251	105	34	900	Jamnica (Hr)	Jam	17	gaz
+311	4	2	50	29	6	San Benedetto (Venetie)	Sb3	2	gaz
+1220			228	38		Sveva-Vulture	Sve	2	gaz
